@@ -99,6 +99,9 @@ footer {
     <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/survival">survival skills</a>
     <br>
     <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryengineering">fort building and fortification construction</a>
+  <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryengineering">customs and drill and ceremony</a>
+  <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryengineering">marksmanship and weapons training</a>
+  <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryengineering">hand to hand combat</a>
   </article>
 </section>
 
