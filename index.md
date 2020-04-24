@@ -72,7 +72,7 @@ footer {
 <section>
   <nav>
     <ul>
-      <li><a href="homepage.html">home</a></li>
+      <li><a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/">home</a></li>
       <li><a href="applications.html">applications</a></li>
       <li><a href="curriculum.html">curriculum</a></li>
     </ul>
