@@ -73,8 +73,8 @@ footer {
   <nav>
     <ul>
       <li><a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/">home</a></li>
-      <li><a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/applications/">applications</a></li>
-      <li><a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/curriculum/">curriculum</a></li>
+      <li><a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/applications">applications</a></li>
+      <li><a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/curriculum">curriculum</a></li>
     </ul>
   </nav>
   
