@@ -80,7 +80,18 @@ footer {
   
   <article>
     <h1>Matthew-Kristian military academy curriculum</h1>
-    <p>Select a topic below to learn about.</p>
+    <p>Select a topic below to learn about.</p><br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryhistory/">required military history knowledge</a>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics1/">basic tactics reading 1</a>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics2/">basic tactics reading 2</a>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics3/">basic tactics reading 3</a>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics4/">basic tactics reading 4</a>
+    <br>
   </article>
 </section>
 
