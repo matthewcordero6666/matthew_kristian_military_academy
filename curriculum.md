@@ -96,7 +96,10 @@ footer {
     <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/matthewarmyfacts1/">required knowledge of the matthew army</a>
     <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/leadership/">fundamentals of leadership</a>
     <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/usarmyfacts/">required knowledge of the u.s. army</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/traversing/">land navigation, infiltration/exfiltration, traversing through enemy territory</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/survival/">survival skills</a>
     <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryengineering/">fort building and fortification construction</a>
   </article>
 </section>
 
