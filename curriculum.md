@@ -23,7 +23,7 @@ header {
 nav {
   float: left;
   width: 30%;
-  height: 300px;
+  height: 1500px;
   background: #B8860B;
   padding: 20px;
 }
@@ -38,7 +38,7 @@ article {
   padding: 20px;
   width: 70%;
   background-color: #f1f1f1;
-  height: 300px;
+  height: 1500px;
 }
 
 section:after {
@@ -72,8 +72,8 @@ footer {
   <nav>
     <ul>
       <li><a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/">home</a></li>
-      <li><a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/applications/">applications</a></li>
-      <li><a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/curriculum/">curriculum</a></li>
+      <li><a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/applications">applications</a></li>
+      <li><a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/curriculum">curriculum</a></li>
     </ul>
   </nav>
   
@@ -81,24 +81,24 @@ footer {
     <h1>Matthew-Kristian military academy curriculum</h1>
     <p>Select a topic below to learn about.</p><br>
     <br>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryhistory/">required military history knowledge</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryhistory">required military history knowledge</a>
     <br>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics1/">basic tactics reading 1</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics1">basic tactics reading 1</a>
     <br>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics2/">basic tactics reading 2</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics2">basic tactics reading 2</a>
     <br>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics3/">basic tactics reading 3</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics3">basic tactics reading 3</a>
     <br>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics4/">basic tactics reading 4</a>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/soldiercombatskills1/">soldier combat skills level 1</a>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/soldiercombatskills2/">soldier combat skills level 2</a>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/matthewarmyfacts1/">required knowledge of the matthew army</a>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/leadership/">fundamentals of leadership</a>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/usarmyfacts/">required knowledge of the u.s. army</a>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/traversing/">land navigation, infiltration/exfiltration, traversing through enemy territory</a>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/survival/">survival skills</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics4">basic tactics reading 4</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/soldiercombatskills1">soldier combat skills level 1</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/soldiercombatskills2">soldier combat skills level 2</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/matthewarmyfacts1">required knowledge of the matthew army</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/leadership">fundamentals of leadership</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/usarmyfacts">required knowledge of the u.s. army</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/traversing">land navigation, infiltration/exfiltration, traversing through enemy territory</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/survival">survival skills</a>
     <br>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryengineering/">fort building and fortification construction</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryengineering">fort building and fortification construction</a>
   </article>
 </section>
 
