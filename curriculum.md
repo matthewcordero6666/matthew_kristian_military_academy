@@ -94,6 +94,8 @@ footer {
     <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/soldiercombatskills1/">soldier combat skills level 1</a>
     <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/soldiercombatskills2/">soldier combat skills level 2</a>
     <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/matthewarmyfacts1/">required knowledge of the matthew army</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/leadership/">fundamentals of leadership</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/usarmyfacts/">required knowledge of the u.s. army</a>
     <br>
   </article>
 </section>
