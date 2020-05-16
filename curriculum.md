@@ -23,7 +23,7 @@ header {
 nav {
   float: left;
   width: 30%;
-  height: 600px;
+  height: 1300px;
   background: #B8860B;
   padding: 20px;
 }
@@ -38,7 +38,7 @@ article {
   padding: 20px;
   width: 70%;
   background-color: #f1f1f1;
-  height: 600px;
+  height: 1300px;
 }
 
 section:after {
@@ -99,6 +99,9 @@ footer {
     <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/tacticalmaneuvers">tactical manevers</a>
     <br>
     <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/combinedarmsops">combined arms operations</a>
+    <br>
+    <br>
     <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/offensiveops">offensive operations</a>
     <br>
     <br>
@@ -145,6 +148,15 @@ footer {
     <br>
     <br>
     <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/landnavigation">land navigation and traversing</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/firstaid">first aid</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/medievalweapons">medieval/primitive weapons skills</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/communications">communications</a>
     <br>
   </article>
 </section>
