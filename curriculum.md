@@ -83,25 +83,69 @@ footer {
     <br>
     <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryhistory">required military history knowledge</a>
     <br>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics1">basic tactics reading 1</a>
     <br>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics2">basic tactics reading 2</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/smallunittactics">small unit tactics</a>
     <br>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics3">basic tactics reading 3</a>
     <br>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/basictactics4">basic tactics reading 4</a>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/soldiercombatskills1">soldier combat skills level 1</a>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/soldiercombatskills2">soldier combat skills level 2</a>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/matthewarmyfacts1">required knowledge of the matthew army</a>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/leadership">fundamentals of leadership</a>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/usarmyfacts">required knowledge of the u.s. army</a>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/traversing">land navigation, infiltration/exfiltration, traversing through enemy territory</a>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/survival">survival skills</a>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/tacticalprinciples">fundamentals of tactics</a>
     <br>
-    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryengineering">fort building and fortification construction</a>
-  <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryengineering">customs and drill and ceremony</a>
-  <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryengineering">marksmanship and weapons training</a>
-  <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryengineering">hand to hand combat</a>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/tacticalconcepts">tactical terms and concepts</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryorganization">military organization and ranks</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/tacticalmaneuvers">tactical manevers</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/offensiveops">offensive operations</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/defensiveops">defensive operations</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/supportops">patrolling recon and stability operations</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/tactialmovementskills">tactical movement</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/urbanops">urban operations</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/coverandconcealment">cover concealment and camoflauge</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/tactialmovementskills">tactical movement skills</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/weaponskills">weapon skills</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/drillandceremony">drill and ceremony</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/armyknowlegde">required army knowledge</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/survivalskills">survival skills</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/fortbuilding">fort building</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryinteligence">military inteligence</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/militaryinteligence">military inteligence</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/handtohandcombat">hand to hand combat</a>
+    <br>
+    <br>
+    <a href="https://matthewcordero6666.github.io/matthew_kristian_military_academy.com/landnavigation">land navigation and traversing</a>
+    <br>
   </article>
 </section>
 
