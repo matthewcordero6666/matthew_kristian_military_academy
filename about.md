@@ -79,9 +79,8 @@ footer {
   </nav>
   
   <article>
-    <h1>Matthew-Kristian military academy</h1>
-    <p>The war college of the empires of Matthew and Kristian.</p>
-    <p>apply now</p>
+    <h1>About the Matthew-Kristian military academy</h1>
+    <p>under construction</p>
   </article>
 </section>
 
